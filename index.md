@@ -22,21 +22,21 @@
 2020年北京市教委科研项目
 
 # 学术论著
-Xiaoming Huang, Yu-Jin Zhang, 50 FPS Object-Level Saliency Detection via Maximally Stable Region , IEEE Trans. Image Processing , 2020, 29: 1384-1396. （SCI一区，CCF A类）
+**Xiaoming Huang**, Yu-Jin Zhang, 50 FPS Object-Level Saliency Detection via Maximally Stable Region , IEEE Trans. Image Processing , 2020, 29: 1384-1396. （SCI一区，CCF A类）
 
-Xiaoming Huang, Yu-Jin Zhang, 300 FPS Salient Object Detection via Minimum Directional Contrast , IEEE Trans. Image Processing , 2017, 26(9): 4243-4254. （SCI一区，CCF A类） 
+**Xiaoming Huang**, Yu-Jin Zhang, 300 FPS Salient Object Detection via Minimum Directional Contrast , IEEE Trans. Image Processing , 2017, 26(9): 4243-4254. （SCI一区，CCF A类） 
 
-Xiaoming Huang, Yu-Jin Zhang, Water flow driven salient object detection at 180 fps, Pattern Recognition, 2018, 76: 95-107. （SCI二区，CCF B类）
+**Xiaoming Huang**, Yu-Jin Zhang, Water flow driven salient object detection at 180 fps, Pattern Recognition, 2018, 76: 95-107. （SCI二区，CCF B类）
 
-Xiaoming Huang, Yu-Jin Zhang, An O(1) disparity refinement method for stereo matching“, Pattern Recognition (PR), 2016, 55: 198-206. （SCI二区，CCF B类）
+**Xiaoming Huang**, Yu-Jin Zhang, An O(1) disparity refinement method for stereo matching“, Pattern Recognition (PR), 2016, 55: 198-206. （SCI二区，CCF B类）
 
-Xiaoming Huang, Yin Zhen, Junzhou Huang, Yu-Jin Zhang, A Minimum Barrier Distance based Saliency Box for Object Proposals Generation，IEEE Signal Processing Letters, 25(8): 1126-1130, 2018（SCI三区，CCF C类）
+**Xiaoming Huang**, Yin Zhen, Junzhou Huang, Yu-Jin Zhang, A Minimum Barrier Distance based Saliency Box for Object Proposals Generation，IEEE Signal Processing Letters, 25(8): 1126-1130, 2018（SCI三区，CCF C类）
 
 
-Xiaoming Huang, Guoqin Cui, Yundong Zhang, “A fast non-local disparity refinement method for stereo matching”, IEEE International Conference on Image Processing (ICIP),2014, 3823 – 3827
+**Xiaoming Huang**, Guoqin Cui, Yundong Zhang, “A fast non-local disparity refinement method for stereo matching”, IEEE International Conference on Image Processing (ICIP),2014, 3823 – 3827
 （EI检索国际会议，CCF C类会议）
 
-Xiaoming Huang, Guoqin Cui, Yundong, “An Improved Filtering for Fast Stereo Matching”, International Conference on Pattern Recognition (ICPR), 2014, 2448 – 2452
+**Xiaoming Huang**, Guoqin Cui, Yundong, “An Improved Filtering for Fast Stereo Matching”, International Conference on Pattern Recognition (ICPR), 2014, 2448 – 2452
 （EI检索国际会议，CCF C类会议）
 
 
